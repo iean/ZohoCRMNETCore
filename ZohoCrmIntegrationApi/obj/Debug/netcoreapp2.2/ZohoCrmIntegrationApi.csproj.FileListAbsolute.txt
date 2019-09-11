@@ -1,0 +1,15 @@
+D:\code\ZohoCrmIntegrationApi\bin\Debug\netcoreapp2.2\ZohoCrmIntegrationApi.dll.config
+D:\code\ZohoCrmIntegrationApi\bin\Debug\netcoreapp2.2\ZohoCrmIntegrationApi.deps.json
+D:\code\ZohoCrmIntegrationApi\bin\Debug\netcoreapp2.2\ZohoCrmIntegrationApi.runtimeconfig.json
+D:\code\ZohoCrmIntegrationApi\bin\Debug\netcoreapp2.2\ZohoCrmIntegrationApi.runtimeconfig.dev.json
+D:\code\ZohoCrmIntegrationApi\bin\Debug\netcoreapp2.2\ZohoCrmIntegrationApi.dll
+D:\code\ZohoCrmIntegrationApi\bin\Debug\netcoreapp2.2\ZohoCrmIntegrationApi.pdb
+D:\code\ZohoCrmIntegrationApi\obj\Debug\netcoreapp2.2\ZohoCrmIntegrationApi.csprojAssemblyReference.cache
+D:\code\ZohoCrmIntegrationApi\obj\Debug\netcoreapp2.2\ZohoCrmIntegrationApi.csproj.CoreCompileInputs.cache
+D:\code\ZohoCrmIntegrationApi\obj\Debug\netcoreapp2.2\ZohoCrmIntegrationApi.RazorAssemblyInfo.cache
+D:\code\ZohoCrmIntegrationApi\obj\Debug\netcoreapp2.2\ZohoCrmIntegrationApi.RazorAssemblyInfo.cs
+D:\code\ZohoCrmIntegrationApi\obj\Debug\netcoreapp2.2\ZohoCrmIntegrationApi.AssemblyInfoInputs.cache
+D:\code\ZohoCrmIntegrationApi\obj\Debug\netcoreapp2.2\ZohoCrmIntegrationApi.AssemblyInfo.cs
+D:\code\ZohoCrmIntegrationApi\obj\Debug\netcoreapp2.2\ZohoCrmIntegrationApi.RazorTargetAssemblyInfo.cache
+D:\code\ZohoCrmIntegrationApi\obj\Debug\netcoreapp2.2\ZohoCrmIntegrationApi.dll
+D:\code\ZohoCrmIntegrationApi\obj\Debug\netcoreapp2.2\ZohoCrmIntegrationApi.pdb
